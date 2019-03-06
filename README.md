@@ -1,2 +1,2 @@
 # FoodOrderingApp_FrontEnd
-This is a Food Ordering android application using Google's FireBase.
+This is the Front End of the Food Ordering android application using Google's FireBase.
